@@ -1,4 +1,4 @@
-# Leugis-Israel-GS
+# WolfDog's mod patch for Leugis-Israel 
 ### YOU HAVE TO BE SUBSCRIBED TO [Leugi's Israel Civilization MOD](https://steamcommunity.com/sharedfiles/filedetails/?id=1237950946).
 ### YOU HAVE TO HAVE [WolfDog's MarkavaIV mod](https://drive.google.com/file/d/1b2rilzEhPnZXQDdVDmR0Vcs9l6-CU7HI/view) FIRST.
 

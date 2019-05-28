@@ -11,7 +11,7 @@
   <FrontEndActions>
     <UpdateDatabase id="Config">
       <Properties>
-        <LoadOrder>10</LoadOrder>
+        <LoadOrder>4000</LoadOrder>
       </Properties>
       <File>Data/Merkava_Config.sql</File>
     </UpdateDatabase>
@@ -31,26 +31,26 @@
     </UpdateArt>
     <UpdateDatabase id="Gameplay">
       <Properties>
-        <LoadOrder>500</LoadOrder>
+        <LoadOrder>5000</LoadOrder>
       </Properties>
       <File>Data/Merkava_Units.sql</File>
     </UpdateDatabase>
     <UpdateIcons id="Icons">
       <Properties>
-        <LoadOrder>500</LoadOrder>
+        <LoadOrder>5000</LoadOrder>
       </Properties>
       <File>Data/Merkava_Icons.sql</File>
     </UpdateIcons>
     <UpdateText id="Text">
       <Properties>
-        <LoadOrder>500</LoadOrder>
+        <LoadOrder>5000</LoadOrder>
       </Properties>
       <File>Text/en_US/Merkava_ConfigText.xml</File>
       <File>Text/en_US/Merkava_CivilopediaText.xml</File>
     </UpdateText>
     <UpdateDatabase id="IsraelGameplay_XP1">
       <Properties>
-        <LoadOrder>500</LoadOrder>
+        <LoadOrder>5000</LoadOrder>
       </Properties>
       <File>Data/Merkava_Expansion1.sql</File>
     </UpdateDatabase>

@@ -4,9 +4,9 @@
 
 ## Steps: ##
 1. Download or clone repository
-3. Copy ```1237950946``` folder
+3. Copy ```MerkavaIV``` folder
 4. Go to ```Steam\steamapps\workshop\content\289070``` folder on your PC
-5. Paste ```1237950946```
+5. Paste ```MerkavaIV```
 6. Launch game
 
 *Both leaders are now playable with all expansions*
